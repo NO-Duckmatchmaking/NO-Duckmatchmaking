@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**NO-Duckmatchmaking/NO-Duckmatchmaking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NO-Duckmatchmaking aka NDMM is a clan where people uses marco to send out a message to lobbies to join or tell innersloth to do their fucking jobs and not let any ducks ducking the lobbies. WE. DO NOT. OR ANYWAY OR ANOTHER. crash the people's lobbies or computers.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## HOW TO JOIN
+
+Download the marco (or make it yourself if it does not work).
+Put your username of a alt (Name)ADM
+
+Example
+
+## CarbonADM
+
+
+
